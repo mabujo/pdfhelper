@@ -1,7 +1,7 @@
 {
     "name": "mabujo/pdf-helper",
     "description": "Utilities for working with ZendPdf",
-    "version": "1.0.0",
+    "version": "1.0.2",
     "require": {
         "zendframework/zendpdf": ">=2.0.2"
     },
