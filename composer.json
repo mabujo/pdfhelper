@@ -2,10 +2,10 @@
     "name": "mabujo/pdf-helper",
     "description": "Utilities for working with ZendPdf",
     "require": {
-        "zendframework/zendpdf": "^2.0@dev"
+        "zendframework/zendpdf": ">=2.0.2",
     },
     "require-dev": {
-        "zendframework/zendpdf": "^2.0@dev"
+        "zendframework/zendpdf": ">=2.0.2",
     },
     "authors": [
         {
@@ -13,5 +13,5 @@
             "email": "john@mabujo.com"
         }
     ],
-    "minimum-stability": "dev"
+    "minimum-stability": "stable"
 }
