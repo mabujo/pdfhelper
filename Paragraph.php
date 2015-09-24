@@ -2,8 +2,8 @@
 
 namespace Mabujo\PdfHelper;
 
-use PdfHelper\LinesBreaker;
-use PdfHelper\LinesBreakChar;
+use Mabujo\PdfHelper\LinesBreaker;
+use Mabujo\PdfHelper\LinesBreakChar;
 
 class Paragraph
 {

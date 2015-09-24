@@ -2,7 +2,7 @@
 
 namespace Mabujo\PdfHelper;
 
-use PdfHelper\MeasureTextResult;
+use Mabujo\PdfHelper\MeasureTextResult;
 
 class MeasureTextCounts
 {

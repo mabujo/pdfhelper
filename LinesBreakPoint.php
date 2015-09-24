@@ -2,9 +2,9 @@
 
 namespace Mabujo\PdfHelper;
 
-use PdfHelper\MeasureText;
-use PdfHelper\MeasureTextCounts;
-use PdfHelper\LinesBreakPointResult;
+use Mabujo\PdfHelper\MeasureText;
+use Mabujo\PdfHelper\MeasureTextCounts;
+use Mabujo\PdfHelper\LinesBreakPointResult;
 
 class LinesBreakPoint
 {

@@ -2,7 +2,7 @@
 
 namespace Mabujo\PdfHelper;
 
-use PdfHelper\LinesBreakPoint;
+use Mabujo\PdfHelper\LinesBreakPoint;
 
 class LinesBreaker
 {
