@@ -1,6 +1,6 @@
 <?php
 
-namespace Ari\PdfHelper\String;
+namespace PdfHelper\String;
 
 interface IStringFn
 {
