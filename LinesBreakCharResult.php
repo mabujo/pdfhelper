@@ -1,6 +1,6 @@
 <?php
 
-namespace Ari\PdfHelper;
+namespace PdfHelper;
 
 class LinesBreakCharResult
 {

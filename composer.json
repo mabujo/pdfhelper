@@ -1,0 +1,17 @@
+{
+    "name": "mabujo/pdf-helper",
+    "description": "Utilities for working with ZendPdf",
+    "require": {
+        "zendframework/zendpdf": "^2.0@dev"
+    },
+    "require-dev": {
+        "zendframework/zendpdf": "^2.0@dev"
+    },
+    "authors": [
+        {
+            "name": "John Henson",
+            "email": "john@mabujo.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}

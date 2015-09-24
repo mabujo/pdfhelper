@@ -1,10 +1,10 @@
 <?php
 
-namespace Ari\PdfHelper;
+namespace PdfHelper;
 
-use Ari\PdfHelper\MeasureText;
-use Ari\PdfHelper\MeasureTextCounts;
-use Ari\PdfHelper\LinesBreakPointResult;
+use PdfHelper\MeasureText;
+use PdfHelper\MeasureTextCounts;
+use PdfHelper\LinesBreakPointResult;
 
 class LinesBreakPoint
 {

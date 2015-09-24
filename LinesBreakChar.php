@@ -1,8 +1,8 @@
 <?php
 
-namespace Ari\PdfHelper;
+namespace PdfHelper;
 
-use Ari\PdfHelper\LinesBreakCharResult;
+use PdfHelper\LinesBreakCharResult;
 
 class LinesBreakChar
 {

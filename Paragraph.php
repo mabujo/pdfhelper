@@ -1,9 +1,9 @@
 <?php
 
-namespace Ari\PdfHelper;
+namespace PdfHelper;
 
-use Ari\PdfHelper\LinesBreaker;
-use Ari\PdfHelper\LinesBreakChar;
+use PdfHelper\LinesBreaker;
+use PdfHelper\LinesBreakChar;
 
 class Paragraph
 {
@@ -130,7 +130,7 @@ class Paragraph
 		$this->lineCount = $lb->getLineCount();
 		$this->width = $width;
 		$this->height = null;
-		
+
 		return $this;
 	}
 

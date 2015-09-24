@@ -1,8 +1,8 @@
 <?php
 
-namespace Ari\PdfHelper;
+namespace PdfHelper;
 
-use Ari\PdfHelper\MeasureTextResult;
+use PdfHelper\MeasureTextResult;
 
 class MeasureTextCounts
 {
