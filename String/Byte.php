@@ -1,6 +1,6 @@
 <?php
 
-namespace PdfHelper\String;
+namespace Mabujo\PdfHelper\String;
 
 class Byte implements IStringFn
 {

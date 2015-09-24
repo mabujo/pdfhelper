@@ -1,6 +1,6 @@
 <?php
 
-namespace PdfHelper;
+namespace Mabujo\PdfHelper;
 
 class MeasureTextResult
 {
